@@ -1,6 +1,7 @@
-dasdasdasdasdas
-asddsadassdassdadasda
+#include <stdio.h>
 
-
-dadassdsad
-
+int main() {
+	
+	printf("hello world");
+	return 0;
+}
